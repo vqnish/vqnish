@@ -1,6 +1,6 @@
 
 
-- 🔭 I’m currently working on Vanish Dash.
+- 🔭 I’m currently working on Discord API Bot.
 - 🌱 I’m currently learning Typescript.
 - 📫 How to reach me: vqnish_#4012
 
