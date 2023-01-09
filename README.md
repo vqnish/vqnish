@@ -1,6 +1,6 @@
 
 
-- 🔭 I’m currently working on Discord ChatGPT Bot.
+- 🔭 I’m currently working on Eris API.
 - 🌱 I’m currently learning GoLang.
 - 📫 How to reach me: vqnish_#4012
 
