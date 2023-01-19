@@ -1,8 +1,8 @@
 
 
-- 🔭 I’m currently working on Eris API.
+- 🔭 I’m currently working on Spoken API.
 - 🌱 I’m currently learning GoLang.
-- 📫 How to reach me: vqnish_#4012
+- 📫 How to reach me: vqnish_#3212
 
 
 
