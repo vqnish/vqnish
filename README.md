@@ -1,6 +1,6 @@
 
 
-- 🔭 I’m currently working on Spoken API.
+- 🔭 I’m currently working on API.
 - 🌱 I’m currently learning GoLang.
 - 📫 How to reach me: vqnish_#3212
 
