@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on things.
 - 🌱 I’m currently learning GoLang.
-- 📫 How to reach me: vqnish_#3212
+- 📫 How to reach me: vqnish_#0001
 
 
 
