@@ -1,8 +1,8 @@
 
 
 - 🔭 I’m currently working on things.
-- 🌱 I’m currently learning GoLang.
-- 📫 How to reach me: vqnish_#0002
+- 🌱 I’m currently learning.
+- 📫 How to reach me: 
 
 
 
